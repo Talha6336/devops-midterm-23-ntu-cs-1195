@@ -1,0 +1,29 @@
+{
+  "name": "devops-midterm-23-ntu-cs-1195",
+  "version": "1.0.0",
+  "description": "Devops midterm lab",
+  "main": "src/shipping.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --test",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Talha6336/devops-midterm-23-ntu-cs-1195.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Talha6336/devops-midterm-23-ntu-cs-1195/issues"
+  },
+  "homepage": "https://github.com/Talha6336/devops-midterm-23-ntu-cs-1195#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.15.0",
+    "globals": "^17.14.0"
+  }
+}
